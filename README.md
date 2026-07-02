@@ -1,8 +1,9 @@
 **Projects**
 <br><br>
-Flypi.com.br
+<a href="https://flypi.com.br" target="_blank" rel="noopener noreferrer">Flypi.com.br</a>
 <br>
-Mineirotatto.com.br
+<a href="https://mineirotatto.com.br" target="_blank" rel="noopener noreferrer">Mineirotatto.com.br</a>
+
 <br><br>
 
 <div align="center">
