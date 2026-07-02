@@ -2,11 +2,9 @@
 
 <p align="center">
   <a href="https://flypi.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Flypi-Visit%20Website-0A66C2?style=for-the-badge" alt="Flypi">
   </a>
   &nbsp;
-  <a href="https://mineirotatto.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Mineiro%20Tatto-Visit%20Website-111111?style=for-the-badge" alt="Mineiro Tatto">
+  <a href="https://mineirotattoo.com.br" target="_blank">
   </a>
 </p>
 
