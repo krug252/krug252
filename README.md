@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Mineiro%20Tattoo-181717?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
----
 
 <p align="center">
   <a href="mailto:guilhermeraderkrug@gmail.com">
